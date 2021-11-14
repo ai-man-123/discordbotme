@@ -1,41 +1,13 @@
-# Ruka-DiscordBot ( NO LONGER MAINTAINED )
+<h1 align="center">Hi 👋, I'm Aiman*͘⁴̅⁰͍⁴̵〆*</h1>
+<h3 align="center">I'm 14 year-old</h3>
 
-## PERINGATAN!
-  * Bot ini masih menggunakan discord.js v11. 
-  * Saya sarankan agar tidak meng-fork repo ini 🙏
-  * Kalo mau ambil commandnya, silahkan 🙏. 
+- 🔭 I’m currently working on [Bot wa](https://github.com/ai-man-123/1234)
 
-## WARNING !
-  * This bot still uses discord.js v11.
-  * I advise against forking this repo 🙏.
-  * If you want to take the command, go ahead 🙏.
+- 📫 How to reach me **aimanmk1234@gmail.com**
 
-**I just maintain [Soumoe](https://github.com/faris0520/soumoe) for now.**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-___
-
-Bot Discord lintas platform yang mudah diatur dan dijalankan sendiri!
-
-_**Indonesia**_
-
-[![Setup](http://i.imgur.com/VvXYp5j.png)](https://github.com/Faris0520/ruka_DiscordBot/wiki)
-
-## Features
-  * Mudah dijalankan
-  * Game Profile Info ( Fortnite, RainbowSix, dan osu! )
-  * Memiliki Command yang Simple dan bersih
-  * Info tentang Anime/Manga
-  * Image Commands ( RIP, Pat, Neko, dan lainnya! )
-  * Stay Safe with Corona Info!
-
-## - **Setup** -
-Kamu bisa melihat [**Setup Page**](https://github.com/Faris0520/ruka_DiscordBot/wiki) di Wiki untuk menjalankan bot mu sendiri!
-
-## Hosting Bot 
-Untuk masalah hosting, kami rekomendasikan untuk menggunakan [**Glitch**](https://glitch.com) dan uptime yang bisa ditemukan di google. 
-| **Heroku tidak direkomendasikan!, karena sangat merepotkan bagi pemula!**.
-Kamu bisa melihat **"Cara Hosting Bot Discord di Glitch"** di Youtube atau Google
-
-## Support 
-* Discord :
-* [**Faris Daffa#0005**](https://dsc.bio/farisdaffa)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer
